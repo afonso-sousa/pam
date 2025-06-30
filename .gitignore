@@ -1,0 +1,5 @@
+__pycache__/
+amr-utils/
+output/
+amr_parser
+cached_data/
